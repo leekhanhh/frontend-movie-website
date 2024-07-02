@@ -1,0 +1,51 @@
+export { default as bakery1 } from "./bakery1.png";
+export { default as badge } from "./badge.png";
+export { default as logo } from "./logo.png";
+export { default as vegan } from "./vegan_thaicury.png";
+export { default as bg_vegan } from "./background_vegan.png";
+export { default as pizza } from "./pizza.jpg";
+export { default as bread } from "./bread.jpg";
+export { default as mobile } from "./Mobile.svg";
+export { default as instagramLogo } from "./instagramLogo.svg";
+export { default as facebookLogo } from "./LogoFB.svg";
+export { default as youtubeLogo } from "./youtubeLogo.svg";
+export { default as smallYoutubeLogo } from "./smallLogoYoutube.svg";
+export { default as motorbike } from "./DeliveryThumbnel.svg";
+export { default as smallFacebookLogo } from "./smallLogoFB.svg";
+export { default as deliveryIcon } from "./delivery.svg";
+export { default as qrCode } from "./QRcode.svg";
+export { default as moneyIcon } from "./shop.svg";
+export { default as robot } from "./robot.png";
+export { default as zaloLogo } from "./zaloLogo.svg";
+export { default as bakeryShop } from "./bakeryShop.png";
+export { default as send } from "./send.png";
+export { default as menu } from "./menu.png";
+export { default as breads } from "./bread.png";
+export { default as cookie } from "./cookies.png";
+export { default as food } from "./food.png";
+export { default as breakfast } from "./breakfast.jpg";
+export { default as baker } from "./cooker.png";
+export { default as barley } from "./barley.png";
+export { default as teaBreak } from "./teabreak.jpg";
+export { default as chefHat } from "./chefhat.png";
+export { default as cake } from "./cake.png";
+export { default as store } from "./store-icon.png";
+export { default as cupcake } from "./cupcake.png";
+export { default as strawberry } from "./strawberry.png";
+export { default as defaultImage } from "./commingsoon.png";
+export { default as avatar } from "./default-avatar.jpg";
+export { default as StoreMap } from "./store-map.png";
+export { default as ContactMap } from "./mapcontact.png";
+// export { default as breadVN } from "./breads.png";
+// export { default as breadFrance } from "./breadFrance.png";
+// export { default as donut } from "./donut.png";
+
+export { default as user } from "./user.png";
+
+export { default as vietQR } from "./vietQR.png";
+export { default as napas } from "./napas.png";
+export { default as pieCode } from "./piecode.svg";
+
+export { default as slide1 } from "./Slide1.jpg";
+export { default as slide2 } from "./Slide2.jpg";
+export { default as slide3 } from "./Slide3.jpg"

@@ -1,0 +1,21 @@
+input::-ms-reveal,
+input::-ms-clear {
+        display: none;
+}
+.check {
+    opacity: 0.5;
+    font-size: 0.65rem;
+    display: flex;
+    gap: 0.3rem;
+    align-items: center;
+  }
+  
+  .correct {
+    opacity: 1;
+    color: rgb(97, 197, 57);
+  }
+  
+  .wrong {
+    opacity: 1;
+    color: rgb(214, 73, 73);
+  }

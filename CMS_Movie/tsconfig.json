@@ -1,0 +1,53 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noImplicitAny": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "~ui/*": ["./src/components-ui/*"],
+      "~actions/*": ["./src/actions/*"],
+      "~assets/*": ["./src/assets/*"],
+      "~components/*": ["./src/components/*"],
+      "~const/*": ["./src/const/*"],
+      "~hooks/*": ["./src/hooks/*"],
+      "~i18n/*": ["./src/i18n/*"],
+      "~icons/*": ["./src/icons/*"],
+      "~providers/*": ["./src/providers/*"],
+      "~reducers/*": ["./src/reducers/*"],
+      "~routes/*": ["./src/routes/*"],
+      "~selectors/*": ["./src/selectors/*"],
+      "~services/*": ["./src/services/*"],
+      "~nivo/*": ["./src/nivo/*"],
+      "~utils/*": ["./src/utils/*"],
+    }
+  },
+  "include": ["next-env.d.ts", "twin.d.ts", "**/*.ts", "src/actions/userAction.js", "src/components/common/login/login-form.js", "src/assets/images/index.ts", "src/services/client/client.js", "src/services/auth/authService.ts"],
+  "exclude": [
+    "storybook-static",
+    "node_modules",
+    "dist",
+    "dist__old",
+    "build",
+    "lib",
+    ".tmp"
+  ]
+}

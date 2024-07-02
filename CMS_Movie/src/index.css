@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: 'YELLOWTAIL';
+    src: url("./assets/fonts/Yellowtail.ttf")
+}
+
+@font-face{
+    font-family: 'ALFASLABONE';
+    src: url("./assets/fonts/AlfaSlabOne.ttf");
+}
+
+@font-face{
+    font-family: 'JOSEFINSANS';
+    src: url("./assets/fonts/JosefinSans.ttf");
+}
+
+@font-face{
+    font-family: 'MONA';
+    src: url("./assets/fonts/MonaSans.ttf")
+}
